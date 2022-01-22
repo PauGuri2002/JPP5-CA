@@ -1,0 +1,74 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Acabem de trobar Internet.",
+        "INTERNET_DISCONNECTED": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "ROOM_DESTROYED": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "SOCKET_DISCONNECTED": "Hem perdut la connexió als servidors de Jackbox Games.",
+        "TIMEOUT": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "USER_DISCONNECT": "Ho sentim, el servidor t'ha desconnectat. Torna-ho a intentar, si us plau.",
+        "LOST_LICENSE": "No hem trobat la llicència d'aquest contingut.",
+        "STEAM_ERROR": "No hem pogut validar la teva llicència de Steam.",
+        "TWITCH_PRIME_ERROR": "No hem pogut validar la teva llicència de Twitch Prime.",
+        "LOST_DLC": "No hem trobat la llicència del teu DLC. Tornant al menú...",
+        "CLOSE": "Tancar",
+        "QUIT": "Sortir",
+        "BACK": "Torna",
+        "MENU_GAME_NAME_1": "YOU DON’T KNOW JACK",
+        "MENU_GAME_NAME_2": "Split the Room",
+        "MENU_GAME_NAME_3": "Mad Verse City",
+        "MENU_GAME_NAME_4": "Zeeple Dome",
+        "MENU_GAME_NAME_5": "Patently Stupid [CAT]",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "Opcions",
+        "MENU_HOW_TO": "COM JUGAR",
+        "BADGE_TITLE_PLAYERS": "JUGADORS",
+        "BADGE_TITLE_FAMILY_MODE": "FAMILY-FRIENDLY",
+        "BADGE_TITLE_NOT_FAMILY_MODE": "NO FAMILY-FRIENDLY",
+        "BADGE_TITLE_AUDIENCE": "AUDIÈNCIA",
+        "BADGE_SUB_PLAYERS": "ÚS DE DISPOSITIUS",
+        "BADGE_SUB_FAMILY_MODE": "OPCIONAL",
+        "BADGE_SUB_NOT_FAMILY_MODE": "EN SERIO!",
+        "BADGE_SUB_AUDIENCE": "MÉS PODEN PARTICIPAR",
+        "INFO_DESCRIPTION_GAME_1": "¡YOU DON’T KNOW JACK: Full Stream trae el clásico irreverente de trivia al popular y ficticio servicio de streaming Binjpipe! ¡Sus términos de servicio explícitamente garantizan que te va a encantar!",
+        "INFO_DESCRIPTION_GAME_2": "¡Un juego donde todo es posible! Crea situaciones hipotéticas extrañas y divisivas.",
+        "INFO_DESCRIPTION_GAME_3": "¡El juego de batallas rap de robots! Tirate unas buenas rimas contra tus amigos para ver quien es el mejor MC y cuál el gato más pillo.",
+        "INFO_DESCRIPTION_GAME_4": "¡El programa de juegos más letal de la galaxia! ¡¡¡Dispárate para ganar premios fabulosos!!!",
+        "INFO_DESCRIPTION_GAME_5": "L'inventiu joc de dibuixar on resols extranys problemes del primer món! Presenta les teves idees i cobreix-te de glòria!",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "OPCIONS",
+        "SETTINGS_FULL_SCREEN": "Pantalla completa",
+        "SETTINGS_VOLUME": "Volum",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "SÍ farà que els jocs es vegin en pantalla completa.",
+        "SETTINGS_VOLUME_DESCRIPTION": "Fes el joc CRIDANER o SILENCIÓS.",
+        "SETTINGS_TOGGLE_ON": "SÍ",
+        "SETTINGS_TOGGLE_OFF": "NO",
+        "HELP_TITLE": "INSTRUCCIONS",
+        "HELP_LINE_1": "Tria un joc.",
+        "HELP_LINE_2": "Quan creis la sala, agafa el teu mòbil, tauleta o portàtil.",
+        "HELP_LINE_3": "Ves a jackbox.cat al teu dispositiu.",
+        "HELP_LINE_4": "Escriu el codi de 4 lletres que veuràs en pantalla i el teu nom de jugador.",
+        "HELP_LINE_5": "El primer jugador en entrar (el VIP) pot començar la partida des del seu dispositiu quan tothom estigui llest.",
+        "HELP_LINE_6": "Recorda passar una bona estona i riure tot el que puguis!"
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}
